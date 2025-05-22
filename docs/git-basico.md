@@ -32,7 +32,7 @@ Repositorio (.git/ directory)
 Carpeta oculta donde Git guarda el historial completo (objetos y referencias).
 Aquí no tocas nada directamente: es el “almacén seguro” de todas tus versiones.
 
-2.1. Objetos fundamentale
+2.1. Objetos fundamentales
 Git usa tres tipos de objetos para representar tu proyecto:
 Blob (Binary Large OBject)
 Guarda el contenido exacto de un solo archivo, sin nombre ni ruta.
