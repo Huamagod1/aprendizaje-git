@@ -15,7 +15,6 @@ Guia ampliada y complementaria basada en "Pro GIT"
 * Como una máquina del tiempo para tu código: cada commit es una fotografía que puedes revisar o restaurar.
 
 2. Modelo de datos interno (según Pro Git)
-3. 
 Git distribuye la gestión de tu proyecto en tres áreas distintas. Entenderlas te ayuda a visualizar qué hace Git en cada paso:
 Directorio de trabajo (Working Directory)
 Aquí ves y editas tus archivos (por ejemplo, index.html, app.js, README.md).
